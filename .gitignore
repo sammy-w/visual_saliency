@@ -1,0 +1,5 @@
+env/
+deep_gaze/stimuli_final/
+deep_gaze/density_maps/
+./deep_gaze/DeepGazeII.ckpt.meta
+.gitattributes
